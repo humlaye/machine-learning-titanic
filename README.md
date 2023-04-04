@@ -1,2 +1,3 @@
 # machine-learning-titanic
- Titanic: Machine Learning from Disaster competition on Kaggle https://www.kaggle.com/c/titanic (Harici bir siteye bağlantılar.) . This competition challenges participants to predict which passengers survived the Titanic shipwreck based on various features such as age, sex, and class.
+The aim of the study is to force participants to guess which passengers survived the Titanic shipwreck based on various characteristics such as age, gender and class. You can join at https://www.kaggle.com/c/titanic.
+The code runs through Google Colab or any compiler. You can test and see the score by uploading the created file to Kaggle. 
